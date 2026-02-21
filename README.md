@@ -27,6 +27,9 @@ chmod +x init.sh
 ./init.sh
 ```
 
+>**Note:**
+>If you encounter any issues while running the script, please open the respective `init` file and execute the commands manually one by one.
+
 Once the server starts, the APIs can be accessed at:
 
 [Swagger UI](http://127.0.0.1:8000/docs)
