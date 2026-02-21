@@ -18,7 +18,7 @@ Set-ExecutionPolicy -Scope Process -ExecutionPolicy Bypass
 .\init.ps1
 ```
 
-For **Linux / macOS**
+For **Linux**
 
 Grant execute permission and run:
 
